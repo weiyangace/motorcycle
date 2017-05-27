@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "id": 0,
+      "title": "This is title",
+      "summary": "This is summary",
+      "cover": 0,
+      "authorId": 0,
+      "type": "SHOW"
+    }
+  ],
+  "authors": [
+    {
+      "id": 0,
+      "name": "This is name",
+      "intro": "This is introduction",
+      "avatar": 0,
+      "articles": [0]
+    }
+  ]
+}
