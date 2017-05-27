@@ -15,7 +15,11 @@
       "name": "This is name",
       "intro": "This is introduction",
       "avatar": 0,
-      "articles": [0]
+      "articles": [
+        {
+          "id": 0
+        }
+      ]
     }
   ],
   "zh_tesh": "中文测试"
